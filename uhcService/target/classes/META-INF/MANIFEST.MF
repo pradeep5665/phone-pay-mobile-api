@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: uhcService
+Implementation-Version: 1.5.6.RELEASE
+Built-By: pradeepy
+Implementation-Vendor-Id: org.uhc
+Build-Jdk: 1.8.0_212
+Implementation-URL: http://projects.spring.io/spring-boot/mobapi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.uhc.UHCService
+
