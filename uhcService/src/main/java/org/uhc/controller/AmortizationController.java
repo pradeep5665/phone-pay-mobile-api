@@ -54,6 +54,9 @@ public class AmortizationController {
 		LoGGER.info("{\"amortizationPdfbyteAPI\": {} }", pdfRequest);
 		return amortizationService.getAmortizationGeneratePdfAndReturnInByte(pdfRequest);
 	}*/
+	
+	
+	
 	/**
 	 * This is amortizationPdfAPI to create amortization Pdf
 	 * @author pradeepy
